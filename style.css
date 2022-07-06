@@ -94,10 +94,40 @@ h2 {
       border-radius: 8px;
 }
 
+.button-2 {
+      text-decoration: none;
+      background-color: orange;
+      padding: 10px 40px;
+      color: aliceblue;
+      font: size 700px;
+      border-radius: 8px;
+}
+
 .style-1 {
+      display: flex;
+}
+
+.smart-1 {
       width: 50%;
+      padding-left: 5%;
+}
+
+.smart-2 {
+      width: 80%;
+      padding-left: 5%;
+
 }
 
 .style-2 {
+      display: flex;
+}
+
+.smart-3 {
       width: 50%;
+      padding-left: 5%;
+}
+
+.smart-4 {
+      width: 100%;
+      padding-left: 5%;
 }
