@@ -1,3 +1,57 @@
-.donate {
+body {
+      font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+      font-size: 50px;
+}
+
+h2 {
+      font-size: 20px;
+}
+
+.hire-button-1 {
+      text-decoration: none;
+      background-color: orange;
+      padding: 10px 40px;
+      color: aliceblue;
+      font: size 700px;
+      border-radius: 8px;
+      align: center;
+
+
+}
+
+.hire-button-2 {
+      text-decoration: none;
+      background-color: orange;
+      padding: 10px 40px;
+      color: aliceblue;
+      font: size 700px;
+      border-radius: 8px;
+}
+
+.banner-set {
       background-image: url(images/donation10.jpg);
+      background-repeat: no-repeat;
+      background-size: auto;
+
+}
+
+.underline {
+      text-decoration-line: underline;
+      text-align: center;
+}
+
+.aqua-color {
+      color: aqua;
+}
+
+.white-color {
+      color: white;
+}
+
+.footer {
+      text-align: center;
+      background-color: black;
 }
