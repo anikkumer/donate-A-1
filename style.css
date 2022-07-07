@@ -31,10 +31,32 @@ h2 {
       border-radius: 8px;
 }
 
-.banner-set {
+.banner-set-1 {
       background-image: url(images/donation10.jpg);
       background-repeat: no-repeat;
-      background-size: auto;
+      background-position: center;
+}
+
+.text-set-1 {
+      text-align: center;
+}
+
+.text-set-2 {
+      text-align: center;
+}
+
+.text-set-3 {
+      text-align: center;
+}
+
+.text-set-4 {
+      text-align: center;
+}
+
+.banner-set-2 {
+      background-color: cornflowerblue;
+      background-repeat: no-repeat;
+
 
 }
 
@@ -83,6 +105,13 @@ h2 {
       color: aliceblue;
       font: size 700px;
       border-radius: 8px;
+}
+
+#banner-set-2 {
+      background-color: royalblue;
+      padding-inline: 100px;
+      height: 80px;
+      weight: 80px;
 }
 
 .button-1 {
